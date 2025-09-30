@@ -48,7 +48,6 @@ https://github.com/user-attachments/assets/8f48a641-7edb-4af3-a17e-c5464bfef660
 
 ```bash
 # Clone the repository
-git clone https://github.com/HyperBuildX/Solana-Prediction-Market
 cd decentrapredict
 
 # Install dependencies
@@ -76,9 +75,3 @@ FEE_AUTHORITY =
 - Locking Period – Market closes at deadline; no more bets
 - Resolution – Oracle fetches real-world outcome
 - Payout – Winners are rewarded proportionally
-
-## 💬 Contact
-
-If you have any questions or would like a more customized app for specific use cases, please feel free to contact us at the contact information below.
-- E-Mail: hyperbuildx@adamglab.dev
-- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
