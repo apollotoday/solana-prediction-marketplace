@@ -1,5 +1,4 @@
-# 🧠 DecentraPredict - A Decentralized Prediction Market
-
+# 🧠Solana prediction marketplace
 DecentraPredict is an open-source decentralized prediction market built on Solana, allowing users to create, participate, add liquidity and resolve prediction events using smart contracts. 
 
 > ⚖️ Bet on real-world outcomes. Earn if you're right. Built for transparency, fairness, and community governance.
